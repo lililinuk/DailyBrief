@@ -58,13 +58,7 @@ export const WATCHLIST: TickerDef[] = [
   { symbol: "META", displayName: "Meta", group: "us-equity" },
   // === 加密货币 ===
   { symbol: "BTC-USD", displayName: "Bitcoin", group: "crypto" },
-  { symbol: "ETH-USD", displayName: "Ethereum", group: "crypto" },
-  { symbol: "SOL-USD", displayName: "Solana", group: "crypto" },
-  // === 中概 / 港股 ===
-  { symbol: "BABA", displayName: "阿里巴巴 (BABA)", displayNameEn: "Alibaba (BABA)", group: "china-equity" },
-  { symbol: "PDD", displayName: "拼多多 (PDD)", displayNameEn: "Pinduoduo (PDD)", group: "china-equity" },
-  { symbol: "JD", displayName: "京东 (JD)", displayNameEn: "JD.com (JD)", group: "china-equity" },
-  { symbol: "0700.HK", displayName: "腾讯控股 (0700.HK)", displayNameEn: "Tencent (0700.HK)", group: "china-equity" },
+  
   // === 商品 + 外汇 ===
   { symbol: "GC=F", displayName: "黄金期货", displayNameEn: "Gold Futures", group: "commodity-fx" },
   { symbol: "CL=F", displayName: "WTI 原油期货", displayNameEn: "WTI Crude Futures", group: "commodity-fx" },
