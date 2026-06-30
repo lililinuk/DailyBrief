@@ -13,31 +13,6 @@
     ]
   },
   {
-    "id": "v2ex-hot",
-    "name": "V2EX",
-    "type": "api",
-    "url": "https://www.v2ex.com/api/topics/show.json",
-    "category": "tech",
-    "subcategory": "cn-community",
-    "enabled": true,
-    "locales": [
-      "zh"
-    ]
-  },
-  {
-    "id": "linuxdo",
-    "name": "LinuxDo",
-    "type": "rss",
-    "url": "https://linux.do/top.rss?period=daily",
-    "category": "tech",
-    "subcategory": "cn-community",
-    "enabled": true,
-    "locales": [
-      "zh"
-    ],
-    "notes": "Discourse RSS feed; fetcher falls back to /latest.rss if /top.rss fails"
-  },
-  {
     "id": "juejin",
     "name": "掘金",
     "type": "rss",
